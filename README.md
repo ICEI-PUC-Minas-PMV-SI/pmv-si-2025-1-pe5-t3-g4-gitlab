@@ -11,14 +11,15 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Davi Mateus Gaio – 1581196
+* Gabrielle Almeida – 879347
+* Guilherme Augusto Andrade da Silva Borges – 894766
+* Luiz Otávio da Silva Pereira – 883502
+* Nicolas Miller – 806349
+* Roberto Semantob Junior – 890262
 
 ## Orientador
 
-* Nome completo do professor 1
+* Fabio Leandro Rodrigues Cordeiro
 
 
